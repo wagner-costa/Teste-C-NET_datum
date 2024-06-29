@@ -3,3 +3,11 @@
 ################################################################################
 
 /.vs
+/Blog.Anticorruption.Authentication/obj
+/Blog.Api/bin/Debug/net8.0
+/Blog.Api/obj
+/Blog.Application/obj
+/Blog.Common/obj
+/Blog.Core/obj
+/Blog.Infrastructure/obj
+/Blog.Infrastructure.Data.SqlServer/obj
